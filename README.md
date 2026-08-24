@@ -14,17 +14,17 @@
 
 <br />
 
-## Galeria
+# Galeria
 
 Poniżej znajdują się zrzuty ekranu prezentujące interfejs DarkMC:
 
-**Strona Główna**
+## Strona Główna
 ![Strona Główna](assets/main_screen.png)
 
-**Zarządzanie Profilami**
+## Zarządzanie Profilami
 ![Zarządzanie Profilami](assets/profiles_screen.png)
 
-**Menu Modyfikacji**
+## Menu Modyfikacji
 ![Modyfikacje](assets/mods_screen.png)
 
 ---
