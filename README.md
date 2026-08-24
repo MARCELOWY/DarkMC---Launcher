@@ -2,41 +2,45 @@
   
   <img src="assets/logo.png" alt="DarkMC Logo" width="300" />
 
-  # 🌌 DarkMC Launcher
+  # DarkMC Launcher
   
-  *Nowoczesny, lekki i niezwykle szybki launcher do Minecrafta, stworzony dla graczy ceniących wydajność oraz mroczny, elegancki design.*
+  *Nowoczesny, lekki i intuicyjny launcher do Minecrafta z mrocznym motywem graficznym, interaktywnym podglądem postaci oraz wbudowanym menedżerem wersji.*
 
   <br />
 
-  [![Pobierz Wersje](https://img.shields.io/badge/⬇_Pobierz-Dostępne_Wersje-6a0dad?style=for-the-badge)](LINK_DO_TWOICH_WYDAN)
+  [![Pobierz Wersje](https://img.shields.io/badge/Pobierz-Dostepne_Wersje-6a0dad?style=for-the-badge)](https://github.com/MARCELOWY/DARKMC/releases)
 
 </div>
 
 <br />
 
-## 📸 Galeria (Sneak Peek)
+## Galeria
 
-Poniżej znajdziesz zrzuty ekranu prezentujące interfejs **DarkMC**:
+Poniżej znajdują się zrzuty ekranu prezentujące interfejs DarkMC:
 
-**🏠 Strona Główna**
+**Strona Główna**
 ![Strona Główna](assets/main_screen.png)
 
-**⏳ Ekran Ładowania**
-![Ekran Ładowania](assets/loading_screen.png)
+**Zarządzanie Profilami**
+![Zarządzanie Profilami](assets/profiles_screen.png)
 
-**🛠️ Menu Modyfikacji**
+**Menu Modyfikacji**
 ![Modyfikacje](assets/mods_screen.png)
 
 ---
 
-## ✨ Dlaczego DarkMC?
+## Cechy i Funkcje Launchera
 
-* **Minimalizm i szybkość:** Launcher zużywa bardzo mało pamięci RAM podczas działania w tle.
-* **Wbudowane zarządzanie modami:** Przejrzysty panel ułatwia instalację paczek i pojedynczych modyfikacji.
-* **Dark Theme:** Elegancki, ciemny motyw, który nie męczy oczu podczas nocnych sesji.
+- **Interaktywny podgląd skina:** W centrum ekranu znajduje się trójwymiarowa wizualizacja Twojej postaci w grze.
+- **Wygodne wybieranie wydań:** Szybki dostęp do ostatnio granych wersji oraz pełna lista wspieranych wydań Minecrafta (od starszych po najnowsze, np. 1.18.2 - 1.21.11).
+- **Zarządzanie kontem:** Wyświetlanie statusu gracza (np. Konto Premium), nazwy użytkownika oraz awatara z opcją szybkiej zmiany konta.
+- **Menu Modyfikacji:** Dedykowana sekcja pozwalająca na łatwą konfigurację i zarządzanie modami.
+- **Integracja społecznościowa:** Szybkie odnośniki do dziennika zmian (Changelog) oraz oficjalnego serwera Discord w górnym panelu.
 
-## 🚀 Instalacja i Uruchomienie
+---
 
-1. Kliknij fioletowy przycisk **Pobierz** na samej górze lub przejdź do zakładki `Releases`.
-2. Pobierz najnowszą wersję launchera (np. `.exe` dla Windowsa).
-3. Uruchom plik – launcher sam zaktualizuje niezbędne pliki i przygotuje grę do startu.
+## Instalacja i Uruchomienie
+
+1. Przejdź do zakładki Releases lub kliknij fioletowy przycisk **Pobierz** umieszczony na samej górze.
+2. Pobierz najnowszy plik wykonywalny launchera.
+3. Uruchom aplikację – DarkMC sprawdzi spójność plików, zweryfikuje aktualizację i przygotuje grę do uruchomienia.
