@@ -8,7 +8,7 @@
 
   <br />
 
-  [![Pobierz Wersje](https://img.shields.io/badge/Pobierz-Dostepne_Wersje-6a0dad?style=for-the-badge)](https://github.com/MARCELOWY/DARKMC/releases)
+  [![Pobierz Wersje](https://img.shields.io/badge/Pobierz-Dostepne_Wersje-6a0dad?style=for-the-badge)](https://github.com/MARCELOWY/DarkMC---Launcher/releases)
 
 </div>
 
